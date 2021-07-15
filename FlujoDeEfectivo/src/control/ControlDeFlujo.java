@@ -10,7 +10,7 @@ import pojo.Proyecto;
 
 /**
  *
- * @author G
+ * @author Sistemas-12
  */
 public class ControlDeFlujo {
     private DefaultTableModel tableModel;
